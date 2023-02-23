@@ -1,2 +1,2 @@
 # csharp-chatgpt
-C# Learning repository with ChatGPT.
+C# re-learning repository with ChatGPT.
